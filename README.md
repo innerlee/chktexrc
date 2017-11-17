@@ -1,0 +1,2 @@
+# chktexrc
+.chktexrc for chktex
